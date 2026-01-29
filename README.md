@@ -22,12 +22,6 @@ Trend Market Place is a starter marketplace application that demonstrates core m
 - Basic item details and images
 - Starter APIs / frontend scaffold (update to match actual implementation)
 
-## Tech stack
-- Backend: (e.g., Node.js, Express, Django) — replace with actual stack
-- Frontend: (e.g., React, Vue) — replace with actual stack
-- Database: (e.g., PostgreSQL, MongoDB)
-- Other: (e.g., Docker, Redis)
-
 Update the section above to reflect the actual technologies used in this project.
 
 ## Getting started
@@ -87,3 +81,4 @@ This project is currently unlicensed. Add a LICENSE file (for example, MIT) to m
 ## Contact
 Maintainer: bts-singh
 Project: Trend Market Place
+
