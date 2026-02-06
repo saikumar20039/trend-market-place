@@ -34,7 +34,7 @@ Prerequisites
 
 Quick start
 1. Clone the repository
-   git clone https://github.com/bts-singh/trend-market-place.git
+   git clone https://github.com/saikumar20039/trend-market-place.git
 2. Change into the project directory
    cd trend-market-place
 3. Install dependencies
@@ -81,4 +81,5 @@ This project is currently unlicensed. Add a LICENSE file (for example, MIT) to m
 ## Contact
 Maintainer: bts-singh
 Project: Trend Market Place
+
 
